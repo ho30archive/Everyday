@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "346402107242",
+    "firebase_url": "https://everyday-8b7bc-default-rtdb.firebaseio.com",
+    "project_id": "everyday-8b7bc",
+    "storage_bucket": "everyday-8b7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346402107242:android:b6b68a291a426d99dfff13",
+        "android_client_info": {
+          "package_name": "com.everyday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346402107242-itl38tmvss1maq1sejb1r001epshau4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everyday",
+            "certificate_hash": "a82cb1a0113541d979b41be0f8bbec817d9fb4bc"
+          }
+        },
+        {
+          "client_id": "346402107242-q7sjeg1o6st911imtrf25o20e7fac18c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everyday",
+            "certificate_hash": "ef158d2c74a20aec296117da7d12ddd3c99dc26e"
+          }
+        },
+        {
+          "client_id": "346402107242-pt023eh1ghjup09mn3lojpff5mod79r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRk82mzdiStb06_ue5zZRMWbCWESaI9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346402107242-pt023eh1ghjup09mn3lojpff5mod79r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346402107242:android:1270bb7e0c32296fdfff13",
+        "android_client_info": {
+          "package_name": "com.everyday1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346402107242-231jeci2vio34iaagd9qkca7teqlibni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everyday1",
+            "certificate_hash": "ef158d2c74a20aec296117da7d12ddd3c99dc26e"
+          }
+        },
+        {
+          "client_id": "346402107242-pt023eh1ghjup09mn3lojpff5mod79r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRk82mzdiStb06_ue5zZRMWbCWESaI9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346402107242-pt023eh1ghjup09mn3lojpff5mod79r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346402107242:android:b352524c40e2e98fdfff13",
+        "android_client_info": {
+          "package_name": "com.viva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346402107242-22s528pk9afjv6jpffsn1q03l878g3ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viva",
+            "certificate_hash": "ef158d2c74a20aec296117da7d12ddd3c99dc26e"
+          }
+        },
+        {
+          "client_id": "346402107242-ih5qeoctgv0dkfnq7op4ke9qr4bnjh3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viva",
+            "certificate_hash": "e509da337441351e3108505a4de46c5a37f8f621"
+          }
+        },
+        {
+          "client_id": "346402107242-pt023eh1ghjup09mn3lojpff5mod79r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRk82mzdiStb06_ue5zZRMWbCWESaI9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346402107242-pt023eh1ghjup09mn3lojpff5mod79r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
